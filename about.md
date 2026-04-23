@@ -3,5 +3,15 @@ layout: layout.liquid
 title: About
 ---
 
-# About the 11ty **Boilerplate**
-<img class="about" alt="pine" src="/images/pine.png" width="50" />
+# Next Meetups
+## North Charlotte
+**May 6**
+Huntersville Park
+12345 Dale Earnhardt Drive
+
+## South Charlotte
+**May 28**
+Frazier Park
+1932 Tryon St.
+
+<img class="about" alt="Long Haired Dachshund" src="/images/neville-belly.jpg" />
