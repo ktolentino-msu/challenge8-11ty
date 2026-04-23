@@ -1,6 +1,6 @@
 ---
 layout: layout.liquid
-title: About
+title: Next Meetups
 ---
 
 # Next Meetups
